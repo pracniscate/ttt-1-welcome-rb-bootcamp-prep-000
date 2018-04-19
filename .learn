@@ -1,5 +1,5 @@
 tags:
-puts "Welcome to Tic Tac Toe!"
+  - put
   - tictactoe
 languages:
   - ruby
